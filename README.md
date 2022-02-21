@@ -7,4 +7,6 @@ To upgrade your account see this guide : https://developer.twitter.com/en/docs/t
 
 If you want to use the project directly : https://dev-sss.herokuapp.com/index.php
 
-<b>Notice: dev-sss.herokuapp.com is not connected to the database, and this means that all your private data will be sent and received via Twitter API .</b>
+<b>Notice: dev-sss.herokuapp.com is not connected to the database, and this means that all your private data will be sent and received via Twitter API only</b>
+
+video : https://youtu.be/HIQL4U5RwmA
